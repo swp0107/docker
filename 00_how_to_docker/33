@@ -1,0 +1,2 @@
+#33
+docker rmi --force $(docker images --all --quiet)

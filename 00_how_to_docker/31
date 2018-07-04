@@ -1,0 +1,2 @@
+#31
+docker swarm leave --force

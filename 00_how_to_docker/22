@@ -1,0 +1,2 @@
+#22
+docker swarm join-token worker
